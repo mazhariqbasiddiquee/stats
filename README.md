@@ -5,8 +5,7 @@
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=mazhariqbasiddiquee
 
-
-![image](https://github.com/mazhariqbasiddiquee/stats/assets/121328575/8c6b630f-0606-427a-8e66-4399b2b4970b)
+curl https://gist.githubusercontent.com/yyx990803/7745157/raw/dbcf4874d55490f3c2af9d593950964fe48b1e31/starcounter.js -sSL | node - laixintao -t 10
 
 
 
